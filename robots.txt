@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://umitbulut.github.io/HugoTestV2/sitemap.xml

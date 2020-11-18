@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sub-Section PaperMod on UmitMod</title>
+    <link>https://umitbulut.github.io/HugoTestV2/posts/papermod/</link>
+    <description>Recent content in Sub-Section PaperMod on UmitMod</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 24 Sep 2020 11:33:33 +0530</lastBuildDate><atom:link href="https://umitbulut.github.io/HugoTestV2/posts/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Papermod - Installation</title>
+      <link>https://umitbulut.github.io/HugoTestV2/posts/papermod/papermod-installation/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0530</pubDate>
+      
+      <guid>https://umitbulut.github.io/HugoTestV2/posts/papermod/papermod-installation/</guid>
+      <description>Read Install and Update instructions here</description>
+    </item>
+    
+    <item>
+      <title>Papermod - Features</title>
+      <link>https://umitbulut.github.io/HugoTestV2/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 16 Sep 2020 11:30:03 +0530</pubDate>
+      
+      <guid>https://umitbulut.github.io/HugoTestV2/posts/papermod/papermod-features/</guid>
+      <description>Get known about All Features in PaperMod</description>
+    </item>
+    
+    <item>
+      <title>Papermod - Icons</title>
+      <link>https://umitbulut.github.io/HugoTestV2/posts/papermod/papermod-icons/</link>
+      <pubDate>Thu, 17 Sep 2020 11:30:03 +0530</pubDate>
+      
+      <guid>https://umitbulut.github.io/HugoTestV2/posts/papermod/papermod-icons/</guid>
+      <description>List of all Icons supported by PaperMod</description>
+    </item>
+    
+    <item>
+      <title>Papermod - Variables</title>
+      <link>https://umitbulut.github.io/HugoTestV2/posts/papermod/papermod-variables/</link>
+      <pubDate>Thu, 24 Sep 2020 11:33:33 +0530</pubDate>
+      
+      <guid>https://umitbulut.github.io/HugoTestV2/posts/papermod/papermod-variables/</guid>
+      <description>List of Front Matter variables used by PaperMod</description>
+    </item>
+    
+    <item>
+      <title>Papermod - How To&#39;s Guide</title>
+      <link>https://umitbulut.github.io/HugoTestV2/posts/papermod/papermod-how-to/</link>
+      <pubDate>Fri, 18 Sep 2020 11:30:03 +0530</pubDate>
+      
+      <guid>https://umitbulut.github.io/HugoTestV2/posts/papermod/papermod-how-to/</guid>
+      <description>FAQs</description>
+    </item>
+    
+  </channel>
+</rss>
